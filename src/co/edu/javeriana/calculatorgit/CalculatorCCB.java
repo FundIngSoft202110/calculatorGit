@@ -14,14 +14,9 @@ public class CalculatorCCB implements ICalculator {
         return a*b;
     }
 	public double divide (double a, double b) throws ArithmeticException {
-        // try{
-            double c = a/b;
-            System.out.println(c);
-            return c;
-        // }
-        // catch(ArithmeticException e){
-        //     System.out.println("La operación no se ha podido ejecutar de manera correcta.");
-        // }
+        double c = a/b;
+        System.out.println(c);
+        return c;
     }
 
 	public String about() {    
