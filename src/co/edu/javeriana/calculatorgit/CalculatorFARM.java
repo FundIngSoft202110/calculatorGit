@@ -1,32 +1,33 @@
 package co.edu.javeriana.calculatorgit;
 
 /**
- * @author Sebastián Molano
+ * @author Fabian Rojas
  */
-public class CalculatorSMF implements ICalculator {
+
+public class CalculatorFARM implements ICalculator {
 
     @Override
     public double add(double a, double b) {
-        return a+b;
+        return a + b;
     }
 
     @Override
     public double substract(double a, double b) {
-        return a-b;
+        return a - b;
     }
 
     @Override
     public double multiply(double a, double b) {
-        return a*b;
+        return a * b;
     }
 
     @Override
     public double divide(double a, double b) throws ArithmeticException {
-        return a/b;
+        return a / b ;
     }
 
     @Override
     public String about() {
-        return "Calculadora simple que contiene las 4 operaciones básicas de una calculadora. " + Authors.SMF ;
+        return "Calculadora implementada por: " + Authors.FARM;
     }
 }
