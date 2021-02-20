@@ -27,6 +27,6 @@ public class CalculatorSMF implements ICalculator {
 
     @Override
     public String about() {
-        return "Calculadora simple que contiene las 4 operaciones básicas de una calculadora. Autor: Sebastián Molano Fragale";
+        return "Calculadora simple que contiene las 4 operaciones básicas de una calculadora. " + Authors.SMF ;
     }
 }
