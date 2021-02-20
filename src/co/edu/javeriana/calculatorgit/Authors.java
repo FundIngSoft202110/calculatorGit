@@ -8,4 +8,5 @@ public class Authors {
 	public static String FARM = "Fabian Andres Rojas Molina";
 	public static String JDTT = "Julian David Tarazona Torres";
 	public static String RFT ="Richard Fonseca Triviño";
+	public static String DJMG = "Daniel Jose Monsalve Guaracao";
 }
