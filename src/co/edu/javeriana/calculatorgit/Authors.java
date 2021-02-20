@@ -7,5 +7,5 @@ public class Authors {
 	public static String SMF = "SebastiÃ¡n Molano Fragale";
 	public static String FARM = "Fabian Andres Rojas Molina";
 	public static String JDTT = "Julian David Tarazona Torres";
-
+	public static String RFT ="Richard Fonseca Triviño";
 }
