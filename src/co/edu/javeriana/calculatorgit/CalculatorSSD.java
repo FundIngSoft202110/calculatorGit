@@ -4,7 +4,7 @@ package co.edu.javeriana.calculatorgit;
  * @author Sebastian Sandoval
  */
 
-public class CalculatorJDA implements ICalculator {
+public class CalculatorSSD implements ICalculator {
 	@Override
 	  public double add(double x, double y){
 	    
@@ -30,6 +30,6 @@ public class CalculatorJDA implements ICalculator {
 
 	  @Override	
 	  public String about(){
-	    return "Calculator implemented by " + Authors.SSD;
+	    return "Calculadora implementada por: " + Authors.SSD;
 	  }
 }
