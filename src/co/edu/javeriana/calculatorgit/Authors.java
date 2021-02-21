@@ -11,5 +11,6 @@ public class Authors {
 	public static String DJMG = "Daniel Jose Monsalve Guaracao";
 	public static String MARR="Manuel Alejandro Rios Romero";
     public static String SGY = "Diana Stefania Garcia Yomayuza";
-    public static String JDA = "Juan David Ardila Paniaguaq";
+    public static String JDA = "Juan David Ardila Paniagua";
+    public static String DAGP = "Diego Alejandro Gartner Parra";
 }
