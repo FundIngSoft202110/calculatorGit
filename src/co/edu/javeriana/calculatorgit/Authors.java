@@ -6,6 +6,7 @@ public class Authors {
 	public static String AA = "Another Author";
 	public static String SMF = "Sebastián Molano Fragale";
 	public static String FARM = "Fabian Andres Rojas Molina";
+	public static String SSD = "Sebastian Sandoval Dueñas";
 	public static String JDTT = "Julian David Tarazona Torres";
 	public static String RFT ="Richard Fonseca Triviño";
 	public static String DJMG = "Daniel Jose Monsalve Guaracao";
