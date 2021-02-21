@@ -1,5 +1,7 @@
 package co.edu.javeriana.calculatorgit;
 
+//Diego Gartner
+
 public class CalculatorDAGP implements ICalculator {
 	@Override
 	  public double add(double x, double y){
