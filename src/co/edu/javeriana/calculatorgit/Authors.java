@@ -18,5 +18,7 @@ public class Authors {
 	public static String JSBJ = "Juan Sebastian Barreto Jimenez";
 	public static String JADL = "Juan Alejadnro Diaz Lote";
 	public static String DADC = "David Andres Duarte Clavijo";
+	public static String JJBM = "Juan Jose Bolanos Melo";
+
 
 }
