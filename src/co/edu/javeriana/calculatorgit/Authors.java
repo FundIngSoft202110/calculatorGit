@@ -14,4 +14,5 @@ public class Authors {
     public static String SGY = "Diana Stefania Garcia Yomayuza";
     public static String JDA = "Juan David Ardila Paniagua";
     public static String DAGP = "Diego Alejandro Gartner Parra ";
+	public static String JSBJ = "Juan Sebastian Barreto Jimenez";
 }
