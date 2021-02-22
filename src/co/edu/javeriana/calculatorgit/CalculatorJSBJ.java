@@ -20,9 +20,6 @@ public class CalculatorJSBJ implements ICalculator{
 
     @Override
 	public double divide(double a, double b) throws ArithmeticException{
-        if(b == 0){
-            throw new ArithmeticException("El divisor no puede ser 0");
-        }
         return a/b;
     }// divide
     
