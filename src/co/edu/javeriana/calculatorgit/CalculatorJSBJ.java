@@ -25,6 +25,6 @@ public class CalculatorJSBJ implements ICalculator{
 
 	@Override
 	public String about(){
-        return "Calculadora implementada por " + Authors.JSBJ;
+        return "Calculator implemented by " + Authors.JSBJ;
     }// about
 }
