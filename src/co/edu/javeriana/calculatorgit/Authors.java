@@ -16,4 +16,6 @@ public class Authors {
         public static String DAGP = "Diego Alejandro Gartner Parra ";
         public static String DRRM = "Daniel Ricardo Ramirez Molina";
 	public static String JSBJ = "Juan Sebastian Barreto Jimenez";
+	public static String JADL = "Juan Alejadnro Diaz Lote";
+
 }
