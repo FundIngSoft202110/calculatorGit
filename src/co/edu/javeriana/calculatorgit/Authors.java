@@ -25,5 +25,5 @@ public class Authors {
 	public static String MJNR = "Maria Jose Nino Rodriguez";
 	public static String DSQE = "David Santiago Quintana Echavarria";
 	public static String PAS = "Pablo Santander Alvarez";
-
+    public static String JCH = "Janet Chen He";
 }
