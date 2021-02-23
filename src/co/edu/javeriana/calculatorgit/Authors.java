@@ -23,5 +23,6 @@ public class Authors {
 	public static String DNCS = "Diana Natalia Chaparro Sanabria";
 	public static String ARPE = "Andres Ricardo Porras Escobar";
 	public static String MJNR = "Maria Jose Nino Rodriguez";
+	public static String DSQE = "David Santiago Quintana Echavarria";
 
 }
