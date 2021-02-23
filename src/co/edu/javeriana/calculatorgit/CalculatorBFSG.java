@@ -1,4 +1,10 @@
-public class CalculatorFARM implements ICalculator {
+package co.edu.javeriana.calculatorgit;
+
+/**
+ * @author Bryan Santillan
+ */
+
+public class CalculatorBFSG implements ICalculator {
 
     @Override
     public double add(double a, double b) {
