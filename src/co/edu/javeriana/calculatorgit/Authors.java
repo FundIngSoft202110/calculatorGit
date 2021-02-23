@@ -20,6 +20,7 @@ public class Authors {
 	public static String DADC = "David Andres Duarte Clavijo";
 	public static String JJBM = "Juan Jose Bolanos Melo";
 	public static String MAVD = "Marco Antonio Valencia Dueñas";
+	public static String ARPE = "Andres Ricardo Porras Escobar";
 
 
 }
