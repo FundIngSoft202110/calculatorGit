@@ -2,7 +2,7 @@ package co.edu.javeriana.calculatorgit;
 
 //Marco Valencia
 
-public class CalculatoraMAVD implements ICalculator {
+public class CalculadoraMAVD implements ICalculator {
 	@Override
 	  public double add(double x, double y){
 	    
