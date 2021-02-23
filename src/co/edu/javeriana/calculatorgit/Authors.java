@@ -27,4 +27,5 @@ public class Authors {
 	public static String PAS = "Pablo Santander Alvarez";
         public static String JCH = "Janet Chen He";
 	public static String DSSB ="David Santiago Suárez Barragán";
+	public static String IRRC = "Ivan Rene Ramirez Castro";
 }
