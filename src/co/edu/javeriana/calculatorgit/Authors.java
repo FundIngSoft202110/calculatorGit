@@ -21,5 +21,6 @@ public class Authors {
 	public static String JJBM = "Juan Jose Bolanos Melo";
 	public static String MAVD = "Marco Antonio Valencia Dueñas";
 	public static String DNCS = "Diana Natalia Chaparro Sanabria";
+	public static String ARPE = "Andres Ricardo Porras Escobar";
 
 }
