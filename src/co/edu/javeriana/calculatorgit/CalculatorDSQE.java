@@ -2,7 +2,7 @@ package co.edu.javeriana.calculatorgit;
 
 // David Santiago Quintana Echavarria
 
-public class CalculatorJSBJ implements ICalculator{
+public class CalculatorDSQE implements ICalculator{
     @Override
 	public double add(double a, double b){
         return a + b;
