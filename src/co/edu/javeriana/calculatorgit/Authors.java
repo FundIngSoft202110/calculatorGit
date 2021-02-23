@@ -26,14 +26,12 @@ public class Authors {
 	public static String MJNR = "Maria Jose Nino Rodriguez";
 	public static String DSQE = "David Santiago Quintana Echavarria";
 	public static String PAS = "Pablo Santander Alvarez";
-        public static String JCH = "Janet Chen He";
+    public static String JCH = "Janet Chen He";
 	public static String DSSB ="David Santiago Suárez Barragán";
-<<<<<<< HEAD
 	public static String NRB ="Nicolas Ramos Bohórquez";
-=======
 	public static String IRRC = "Ivan Rene Ramirez Castro";
 	public static String MRG = "Mariana Rojas Galav�s";
-	public static String BFSG = "Bryan Felipe Santillan Gomez"
+	public static String BFSG = "Bryan Felipe Santillan Gomez";
 	public static String EHPS = "Esteban Hernando Pedraza Solano";
 
 }

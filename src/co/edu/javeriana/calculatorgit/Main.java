@@ -3,9 +3,9 @@ package co.edu.javeriana.calculatorgit;
 public class Main {
 
 	public static void main(String args[]) {
-		//ICalculator calc = new CalculatorCAPA();
-		//calc.divide(20/0, 0);
-		//calc.about();	
+//		ICalculator calc = new CalculadoraEHPS();
+//		calc.add(1, 1000);
+//		calc.about();
 		
 		
 		
