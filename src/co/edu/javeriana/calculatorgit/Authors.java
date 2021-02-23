@@ -32,4 +32,6 @@ public class Authors {
 	public static String NRB ="Nicolas Ramos BohÃ³rquez";
 =======
 	public static String IRRC = "Ivan Rene Ramirez Castro";
+	public static String MRG = "Mariana Rojas Galavís";
+
 }
