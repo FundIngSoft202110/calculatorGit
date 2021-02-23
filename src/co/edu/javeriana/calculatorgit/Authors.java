@@ -26,4 +26,5 @@ public class Authors {
 	public static String DSQE = "David Santiago Quintana Echavarria";
 	public static String PAS = "Pablo Santander Alvarez";
         public static String JCH = "Janet Chen He";
+	public static String DSSB ="David Santiago Suárez Barragán";
 }
