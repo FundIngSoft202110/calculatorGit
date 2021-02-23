@@ -27,6 +27,6 @@ public class CalculatorMJNR implements ICalculator{
 
   @Override
   public String about(){
-    return "Calculator implemented by" + Authors.MJNR;
+    return "Calculator implemented by " + Authors.MJNR;
   }
 }
