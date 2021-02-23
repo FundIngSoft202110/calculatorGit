@@ -34,5 +34,6 @@ public class Authors {
 	public static String IRRC = "Ivan Rene Ramirez Castro";
 	public static String MRG = "Mariana Rojas Galavís";
 	public static String BFSG = "Bryan Felipe Santillan Gomez"
+	public static String EHPS = "Esteban Hernando Pedraza Solano";
 
 }
